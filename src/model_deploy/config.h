@@ -29,17 +29,7 @@ struct Config {
         "    *            \n\r"
         "   *             \n\r"
         "  *              \n\r"
-        " * * * * * * * * \n\r",
-        "UPDOWN:\n\r"
-        "        *        \n\r"
-        "      * * *      \n\r"
-        "     *  *  *     \n\r"
-        "        *        \n\r"
-        "        *        \n\r"
-        "     *  *  *     \n\r"
-        "      * * *      \n\r"
-        "        *        \n\r"
-        };
+        " * * * * * * * * \n\r"};
 };
 
 Config config;
