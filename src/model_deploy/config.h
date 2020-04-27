@@ -29,7 +29,15 @@ struct Config {
         "    *            \n\r"
         "   *             \n\r"
         "  *              \n\r"
-        " * * * * * * * * \n\r"};
+        " * * * * * * * * \n\r",
+        "RING:\n\r"
+        "          *       \n\r"
+        "        * * *     \n\r"
+        "       *  *  *    \n\r"
+        "          *       \n\r"
+        "       *  *  *    \n\r"
+        "        * * *     \n\r"
+        "          *       \n\r"};
 };
 
 Config config;
