@@ -30,7 +30,7 @@ struct Config {
         "   *             \n\r"
         "  *              \n\r"
         " * * * * * * * * \n\r",
-        "RING:\n\r"
+        "UPDOOWN:\n\r"
         "          *       \n\r"
         "        * * *     \n\r"
         "       *  *  *    \n\r"
